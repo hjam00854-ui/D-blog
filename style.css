@@ -1,0 +1,28 @@
+
+
+
+
+*style.css*
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #fdfdfd;
+  color: #333;
+}
+
+header, footer {
+  text-align: center;
+  padding: 10px 0;
+  background: #eee;
+  margin-bottom: 20px;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+```
